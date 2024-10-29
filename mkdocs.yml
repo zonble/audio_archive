@@ -1,1 +1,55 @@
-site_name: My Docs
+site_name: Audio Archive
+site_url: https://zonble.github.io/audio_archive/
+repo_url: https://github.com/zonble/audio_archive
+repo_name: zonble/audio_archive
+copyright: 2000 and onwards © Weizhong Yang a.k.a zonble
+site_description: 一些加減留下來的東西
+site_author: 楊維中 a.k.a zonble
+theme:
+  name: material
+  language: "zh-TW"
+  # custom_dir: custom_theme/
+  palette:
+    - scheme: default
+      primary: blue grey
+      toggle:
+        name: Switch to light mode
+        icon: material/weather-sunny
+    - scheme: slate
+      primary: blue grey
+      # accent: pink
+      toggle:
+        name: Switch to dark mode
+        icon: material/weather-night
+  font:
+    text: Lato
+  features:
+    - navigation.tracking
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zonble
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/zonble
+  search:
+    language: "jp"
+
+nav:
+  - 2019:
+    - "thousands.md"
+  - 2014:
+    - "minding.md"
+  - 2011:
+    - "swinging.md"
+    - "arriving.md"
+  - 2009:
+    - "spinning.md"
+  - 2006:
+    - "tiengo.md"
+    - "return.md"
+    - "huoxiangji.md"
+  - 2004:
+    - "orz.md"
+  - 2001:
+    - "zk3.md"
