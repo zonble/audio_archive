@@ -2,9 +2,18 @@
 
 寫於 2019 年
 
+## 演唱版
+
 <audio src="then_he_died.m4a" controls>
 Your browser does not support the audio element.
 </audio>
+
+## 純音樂版
+
+<audio src="then_he_died_instrumental.m4a" controls>
+Your browser does not support the audio element.
+</audio>
+
 
 ## 歌詞
 
