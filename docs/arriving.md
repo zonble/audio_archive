@@ -6,6 +6,7 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
 
 趕著在邂逅之前就告別<br>
 趕著在問候之前說再見<br>

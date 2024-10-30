@@ -6,6 +6,8 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
+
 千萬種利益<br>
 千萬種誘惑<br>
 千萬個秘密<br>

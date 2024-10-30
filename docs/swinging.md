@@ -6,6 +6,7 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
 
 他總像是鐘擺一般過活<br>
 從這頭不斷擺盪到那頭<br>

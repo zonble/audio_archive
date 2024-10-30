@@ -6,6 +6,8 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
+
 他出生、他成長<br>
 他學習、他茁壯<br>
 他歡喜、他悲傷<br>

@@ -6,6 +6,8 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
+
 請用你的手輕輕扶正我<br>
 我不能支撐我自己的重<br>
 我不能行走<br>

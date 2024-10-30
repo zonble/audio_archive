@@ -6,6 +6,8 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
+
 在意的不是你的容顏<br>
 在意的不是那些歲月的刻劃<br>
 在意的並不是這些<br>

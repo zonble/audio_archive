@@ -8,6 +8,8 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
+
 他從大風雨裡過來，向最高峰上去了。<br>
 山上只有和平，只有美，沒有壓迫人的風雨了。
 

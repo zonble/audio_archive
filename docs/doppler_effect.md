@@ -6,6 +6,7 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
 
 那些尖銳的聲音，那些喧嘩的聲音，那些嘈雜的聲音，都變得不再激昂<br>
 那些憤怒的聲音，那些嘶吼的聲音，那些吶喊的聲音，都變得不再激昂<br>

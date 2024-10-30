@@ -2,9 +2,19 @@
 
 寫於 2004
 
+## 原版
+
 <audio src="orz.mp3" controls>
 Your browser does not support the audio element.
 </audio>
+
+## 搖滾純音樂版
+
+<audio src="orz_rock_instrumental.mp3" controls>
+Your browser does not support the audio element.
+</audio>
+
+## 歌詞
 
 小姐啊小姐，妳真是美麗。<br>
 烏溜溜的秀髮，水汪汪的眼睛。<br>

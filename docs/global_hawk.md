@@ -6,6 +6,8 @@
 Your browser does not support the audio element.
 </audio>
 
+## 歌詞
+
 他來過，但沒有留下任何的痕跡<br>
 唯有消除痕跡，才能追蹤痕跡
 
