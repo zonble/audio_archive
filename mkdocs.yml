@@ -36,35 +36,39 @@ extra:
     language: "jp"
 
 nav:
+  - 2023:
+      - "middle.md"
   - 2019:
-    - "then_he_died.md"
-    - "thousands.md"
+      - "then_he_died.md"
+      - "thousands.md"
   - 2017:
-    - "kazoo.md"
-    - "dust.md"
+      - "kazoo.md"
+      - "dust.md"
   - 2015:
-    - "planets.md"
-    - "global_hawk.md"
-    - "second_law_of_thermodynamics.md"
-    - "doppler_effect.md"
-    - "pier_39.md"
+      - "planets.md"
+      - "global_hawk.md"
+      - "second_law_of_thermodynamics.md"
+      - "doppler_effect.md"
+      - "pier_39.md"
   - 2014:
-    - "minding.md"
+      - "minding.md"
   - 2011:
-    - "swinging.md"
-    - "arriving.md"
+      - "swinging.md"
+      - "arriving.md"
   - 2009:
-    - "spinning.md"
+      - "spinning.md"
   - 2006:
-    - "tiengo.md"
-    - "return.md"
-    - "huoxiangji.md"
+      - "tiengo.md"
+      - "return.md"
+      - "huoxiangji.md"
   - 2005:
-    - "treasure_island.md"
-    - "no_i_wont_fix_your_computer.md"
-    - "poor.md"
-    - "retard.md"
+      - "treasure_island.md"
+      - "no_i_wont_fix_your_computer.md"
+      - "poor.md"
+      - "retard.md"
   - 2004:
-    - "orz.md"
+      - "orz.md"
+  - 2003:
+      - "steps.md"
   - 2001:
-    - "zk3.md"
+      - "zk3.md"
