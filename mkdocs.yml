@@ -36,6 +36,8 @@ extra:
     language: "jp"
 
 nav:
+  - 2026:
+      - "legacy.md"
   - 2023:
       - "middle.md"
   - 2019:
