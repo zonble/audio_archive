@@ -2,7 +2,7 @@
 
 寫於 2026 年
 
-<audio src="legacy.mp3" controls>
+<audio src="legacy.m4a" controls>
 Your browser does not support the audio element.
 </audio>
 
