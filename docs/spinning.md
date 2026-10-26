@@ -6,6 +6,12 @@
 Your browser does not support the audio element.
 </audio>
 
+2026 年版本
+
+<audio src="spinning2026.mp3" controls>
+Your browser does not support the audio element.
+</audio>
+
 ## 歌詞
 
 請用你的手輕輕扶正我<br>

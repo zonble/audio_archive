@@ -38,6 +38,8 @@ extra:
 nav:
   - 2026:
       - "legacy.md"
+      - "zhongzhi1945.md"
+      - "shanwai.md"
   - 2023:
       - "middle.md"
   - 2019:
